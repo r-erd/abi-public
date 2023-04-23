@@ -22,23 +22,24 @@ key features:
 coming soon
 
 <p float="left">
-  <img src="photos/screen1_p.png" width="400" />
-  <img src="photos/screen2_p.png" width="400" /> 
+  <img src="screenshots/login01.png" width="200" />
+  <img src="screenshots/login02.png" width="200" />
+  <img src="screenshots/register01.png" width="200" />
+  <img src="screenshots/register02.png" width="200" />
 </p>
 
 <p float="left">
-  <img src="photos/screen3_p.png" width="400" />
-  <img src="photos/screen4_p.png" width="400" /> 
+  <img src="screenshots/homescreen.png" width="200" />
+  <img src="screenshots/search.png" width="200" />
+  <img src="screenshots/invites.png" width="200" />
+  <img src="screenshots/share.png" width="200" />
 </p>
 
 <p float="left">
-  <img src="photos/screen5_p.png" width="400" />
-  <img src="photos/screen6_p.png" width="400" /> 
-</p>
-
-<p float="left">
-  <img src="photos/screen7_p.png" width="400" />
-  <img src="photos/screen8_p.png" width="400" /> 
+  <img src="screenshots/selection.png" width="200" />
+  <img src="screenshots/profile.png" width="200" />
+  <img src="screenshots/settings_dark.png" width="200" />
+  <img src="screenshots/settings_light.png" width="200" />
 </p>
 
 
@@ -47,4 +48,4 @@ coming soon
 written in Flutter, using VSCode
 uses Google Firebase as back-end
 
-unfortunately i cannot publish the code as this app will have to be paid for
+closed source as of now
