@@ -1,9 +1,9 @@
-# abi-public
+# 📱 abi 
 an app for collecting quotes, performing surveys, and creating rankings during the last years of school which can then be used in the yearbook
 
 currently a work-in-progress, major remaining tasks are related to regulations and bureaucracy
 
-key features:
+Features:
 - news-stream with newly added comments, quotes, surveys and rankings
 - profile views that list all content concerning the selected member
 - create a community and invite others to your community
@@ -18,8 +18,6 @@ key features:
 
 
 ### Screenshots
-
-coming soon
 
 <p float="left">
   <img src="screenshots/login01.png" width="200" />
